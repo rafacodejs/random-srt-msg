@@ -1,0 +1,24 @@
+{
+  "name": "random-srt-msg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafacodejs/random-srt-msg.git"
+  },
+  "keywords": [],
+  "author": "Rafael <rafacodejs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafacodejs/random-srt-msg/issues"
+  },
+  "homepage": "https://github.com/rafacodejs/random-srt-msg#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
